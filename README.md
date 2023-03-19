@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pittu777" alt="pittu777" /></a> </p>
 
-<a href="https://i.pinimg.com/originals/ae/e2/c2/aee2c2030d1ef473b3ce7ee8af1ad719.gif" target="balnk">Click me</a>
+[![Click Me](https://i.pinimg.com/originals/ae/e2/c2/aee2c2030d1ef473b3ce7ee8af1ad719.gif)](https://pittu777.github.io/colorflipper/)
+
 
 - 🔭 I’m currently working on **JAVASCRIPT**
 
